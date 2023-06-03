@@ -92,9 +92,3 @@ manejadorProductos.getProductById(4);
 
 
 console.log(manejadorProductos.getProducts());
-
-
-//Buenas adjunto el link del repositorio pronto para ejecutar en la terminal!
-//Una duda que me quedo, a diferencia de la profesora yo no agregue dentro de product un array vacío ya que mencionaba o al menos así lo entendí yo, que debe estar vacío en su creación y por eso no lo volví a colocar dentro de product.
-//Mi pregunta es si es válido lo que hice o si realmente me falto agregar ese array y porque lo pondría, porque no lo entendí.
-//Espero que se haya entendido, gracias y saludos!!
